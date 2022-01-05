@@ -1,5 +1,5 @@
 # Bike-O-MAT
-A online-bike-renting-system consisting of two main parts:
+An online-bike-renting-system consisting of two main parts:
 A database to manage the status and location of each bike and a web-application as an easy interface for customers.
 
 The database is hosted on  and contains data like customer information as well as available bikes, their status, location, brand, type, etc.
